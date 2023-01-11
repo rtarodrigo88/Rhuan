@@ -1,0 +1,14 @@
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.exe
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.deps.json
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.runtimeconfig.json
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.runtimeconfig.dev.json
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.dll
+G:\Projetos\Nuget\Rhuan\bin\Debug\netcoreapp3.1\Rhuan.pdb
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.csproj.AssemblyReference.cache
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.AssemblyInfoInputs.cache
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.AssemblyInfo.cs
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.csproj.CoreCompileInputs.cache
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.dll
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.pdb
+G:\Projetos\Nuget\Rhuan\obj\Debug\netcoreapp3.1\Rhuan.genruntimeconfig.cache
